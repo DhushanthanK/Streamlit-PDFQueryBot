@@ -2,6 +2,8 @@
 
 This project is a Streamlit web application that allows users to upload PDF files and interact with them through a chat interface. The bot processes the PDF content using a language model (LLM) and vector database to provide relevant answers to user queries.
 
+https://github.com/user-attachments/assets/08f8afe4-7a7d-4865-aecc-d1204a25e74f
+
 ## Features
 
 - **PDF Upload:** Users can upload PDF files to be processed by the application.
