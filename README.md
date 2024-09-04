@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 5. **Run the Streamlit app:**
 
     ```bash
-    streamlit run app.py
+    streamlit run PDFQueryBot.py
     ```
 
     This will start the Streamlit server and open the app in your default web browser.
@@ -74,7 +74,7 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-- `app.py`: The main Streamlit application file containing all the logic for PDF processing, vector store creation, and interaction with the Groq LLM.
+- `PDFQueryBot.py`: The main Streamlit application file containing all the logic for PDF processing, vector store creation, and interaction with the Groq LLM.
 - `requirements.txt`: Lists all the Python dependencies required to run the application.
 - `.env`: (Optional) Environment file to securely manage API keys and other sensitive configurations.
 
