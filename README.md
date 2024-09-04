@@ -2,6 +2,8 @@
 
 This project is a Streamlit web application that enables users to upload PDF files and interact with their content through a chat interface. The application processes the PDF content using a language model (LLM) and a vector database to provide relevant answers to user queries.
 
+https://github.com/user-attachments/assets/22278ae7-890e-4ee8-89ef-dd01ed0589ca
+
 ## Features
 
 - **PDF Upload:** Users can upload PDF files, which are processed by the application.
@@ -74,7 +76,7 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-- `app.py`: Main Streamlit application file containing the logic for PDF processing, vector store creation, and interaction with the Groq LLM.
+- `PDFQueryBot.py`: Main Streamlit application file containing the logic for PDF processing, vector store creation, and interaction with the Groq LLM.
 - `requirements.txt`: Lists all the Python dependencies required to run the application.
 - `.env`: (Optional) Environment file to manage API keys and other sensitive configurations securely.
 
